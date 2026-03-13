@@ -46,18 +46,25 @@ IDR bridges the skills gap in the digital and cyber risk landscape by combining 
 2. Open `index.html` in your web browser
 3. No build process or dependencies required
 
-## 📱 Features in Detail
+## � Demo
+
+[Live Demo](https://idr-tau.vercel.app/)
+
+## �📱 Features in Detail
 
 ### Mobile Menu
+
 - Responsive hamburger menu that appears on smaller screens
 - Smooth toggle animation with visual feedback
 - Auto-closes when navigation links are clicked
 
 ### Header Behavior
+
 - Dynamic header styling on scroll
 - Responsive navigation with mobile-first approach
 
 ### Contact Form
+
 - Form submission with visual feedback
 - Success message display with auto-reset
 - Prevents default form submission
