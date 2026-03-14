@@ -6,6 +6,11 @@ A modern, responsive website for the Institute for Digital Risk (IDR), an indust
 
 IDR bridges the skills gap in the digital and cyber risk landscape by combining industry-leading practices with academic collaboration. This website showcases our mission, training programs, and provides pathways for both prospective students and hiring partners.
 
+## � Demo
+
+[Live Demo](https://idr-tau.vercel.app/)
+
+
 ## ✨ Features
 
 - **Responsive Design** - Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
@@ -46,9 +51,6 @@ IDR bridges the skills gap in the digital and cyber risk landscape by combining 
 2. Open `index.html` in your web browser
 3. No build process or dependencies required
 
-## � Demo
-
-[Live Demo](https://idr-tau.vercel.app/)
 
 ## �📱 Features in Detail
 
